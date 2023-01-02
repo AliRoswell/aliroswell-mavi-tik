@@ -5,9 +5,9 @@ hazırladığım kanalda detaylı olarak her şeyi anlattım, daha fazla bilgi v
 
 Mavi Tik Almak İçin Telegram Kanalı ; @bruharsivmavitik
 
-Ana Kanal ; @bruharsiv
+Ana Kanal ; @RoswellArsiv
 
-Sorunuz Olursa Telegram Kanalım ; @aliroswell
+Sorunuz Olursa Telegram Adresim ; @AliRoswell
 
 
 
@@ -15,7 +15,7 @@ Sorunuz Olursa Telegram Kanalım ; @aliroswell
 
 "Doğrulanmış Hesap" kısmına yapıştırmanız gereken url ;
 
-https://raw.githubusercontent.com/bruhorj/aliroswell-mavi-tik/main/aliroswellmavitik.json
+https://raw.githubusercontent.com/AliRoswell/aliroswell-mavi-tik/main/aliroswellmavitik.json
 
 
 
